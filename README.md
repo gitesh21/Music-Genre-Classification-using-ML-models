@@ -43,7 +43,9 @@ Svm model accuracy on test data : 74.5%
 
 ### kNN Code Output
 
-
 ![kNN Output](https://raw.githubusercontent.com/gitesh21/images/main/F10DD597-D45E-4398-A493-F122B8668A73_1_201_a.jpeg?token=GHSAT0AAAAAACGUMP5JS77XJUXECHUS5R64ZHGDI3Q)
 
 kNN model accuracy on test data : 67%
+
+### Dissertation Grade : 
+https://raw.githubusercontent.com/gitesh21/Music-Genre-Classification-using-ML-models/refs/heads/main/Dissertation%20grade.png
