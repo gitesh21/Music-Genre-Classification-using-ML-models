@@ -37,13 +37,13 @@ In this dissertation work, I have implemented two different machine learning mod
 These are the respective outputs i got for my both models. I have attached the screenshot of the output for better understanding. 
 ### SVM Code Output
 
-![SVM Output](https://raw.githubusercontent.com/gitesh21/images/aee84514f45956a7ad67f95e70337918ee425776/01A6F6AF-252A-44BB-AF4F-EA2E8A2F7717_1_201_a.jpeg?token=ANCGNUNCBYMQXAYCRP27PX3E4YLV4)
+![SVM Output](https://raw.githubusercontent.com/gitesh21/Music-Genre-Classification-using-ML-models/refs/heads/main/SVM%20output%20.png)
 
 Svm model accuracy on test data : 74.5%
 
 ### kNN Code Output
 
-![kNN Output](https://raw.githubusercontent.com/gitesh21/images/main/F10DD597-D45E-4398-A493-F122B8668A73_1_201_a.jpeg?token=GHSAT0AAAAAACGUMP5JS77XJUXECHUS5R64ZHGDI3Q)
+![kNN Output](https://raw.githubusercontent.com/gitesh21/Music-Genre-Classification-using-ML-models/refs/heads/main/kNN%20output.png)
 
 kNN model accuracy on test data : 67%
 
